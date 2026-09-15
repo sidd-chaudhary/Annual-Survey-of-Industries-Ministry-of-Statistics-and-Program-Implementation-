@@ -222,7 +222,7 @@ This project also demonstrates practical experience in:
 
 👨‍💻 Author
 
-Sidd
+Siddharth Chaudhary
 
 This project was developed as part of a data analytics/internship project focused on working with official Indian government statistical data.
 
